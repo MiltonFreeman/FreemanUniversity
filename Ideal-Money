@@ -1,0 +1,129 @@
+Is there such a thing as ‘perfect’ money?
+
+In the time of Aristotle, it was recognized that a successful money must possess certain functional properties, namely it must be:
+
+* Scarce
+* Fungible
+* Durable
+* Recognizable
+* Portable
+* Divisible
+* Marketable
+
+Let’s take these characteristics one by one and compare three forms of money/currency: Gold, the US Federal Reserve Note ($USD), and Epic Cash ($EPIC), a cryptocurrency
+
+Scarce
+
+Scarcity is important because if there is too much of a currency, then its value decreases. For example, in West Africa, rare cowrie shells were once used as money. When European traders suddenly brought in huge quantities, their value evaporated.
+
+Gold is historically prized as a monetary commodity for its scarcity, however the gold mining industry is able to bring more production online in response to price increases. Think about it: if the price of gold doubles, more gold will be dug from the ground. Gold mining is very resource-intensive, requiring lots of energy. 
+
+The Federal Reserve Note (FRN) has an unknown supply and can be created in infinite quantities. The FRN supply as measured by US M1 has grown from 4.0 Trillion to 18.5 Trillion in approximately one year.
+
+EPIC has a strictly limited maximum supply of 21 million coins, a figure that will take over 100 years to reach because the emission rate is predetermined algorithmically and dynamically adjusts for advances in technology. To create a single coin requires thousands of computers processing trillions of calculations. EPIC is supply-inelastic in response to price increases, meaning that no matter how high the price goes, production cannot increase. The emission curve is fixed at the outset and will never change. Gold supply grows in response to technology advancement as well as price increases. 
+
+Fungible
+Fungibility is the difference between diamonds, which are each unique, and $1 FRN’s, which are for practical purposes interchangeable. You don’t really care which dollar bill you get as long as it’s genuine and in good condition, whereas you really do care which diamond you get.
+
+Cows were used as money in many cultures for millennia. While the amount of beef may be the same, there is a big difference between cows based on age, sex, health and so on. Dollar bills are fungible, cows and diamonds are not.
+
+Is gold fungible? At the atomic level, yes. In practice, not so much. If you look at the market for gold coins, you see that a 1 ounce US $20 gold eagle of one year sells for roughly the same price as one from another year. The designs do not change from year to year. Contrast that with the Chinese Panda coin, which may sell for double the price if it is a highly prized year or an especially beautiful design. 
+
+Is the dollar fungible? In the limited context of a stack of singles while playing blackjack, yes. However, those same dollar bills are useless at a laundromat that only takes quarters when the change machine is out of order. If you ever try to exchange an old style $100 bill overseas, or one that is torn, you will quickly learn the meaning of fungibility. 
+
+EPIC’s 21 million coins are all perfectly identical. Unlike earlier blockchains that required users to be wary of “tainted coins” or exchanges to filter, block, and blacklist coins coming from darknet markets, Epic Cash digitally melts and reissues afresh coins each time they are spent, eliminating this pesky problem.
+
+Durable
+Gold at the atomic level is durable and indestructible. However, from a financial perspective, the fact that each year it requires expenditure to securely store, protect, insure, and audit, the financial durability of gold is in practice less than perfect.
+
+The US Dollar in physical form is quite perishable, as it is subject to degradation from moisture, mold, rats, and highwaymen. Financially, it is akin to playing Russian roulette with a fully loaded six-shooter. Due to the incessant ‘brrr’ of the money printer, holders are assured of losing purchasing power over time. The value of $1 in 1913, when the privately owned for-profit currency monopoly was established, is now under 3 cents. A full 97 percent of holders’ purchasing power was confiscated through the dilution of the monetary medium.
+
+EPIC is perfectly durable and indestructible. It costs nothing to own. It can never be inflated. As long as planet Earth has electricity and networked computation devices, it will endure.
+
+Recognizable
+Counterfeiting is a serious problem, not only for the counterfeiters-in-chief at the Federal Reserve, but also for the global precious metals industry. 
+
+When you buy gold, you must be certain that it is in fact gold and not, say, Tungsten, as was the case in the $2 billion Chinese counterfeit gold scandal. 
+
+EPIC, as a Nakamoto Consensus blockchain-based cryptocurrency, does not suffer from this problem. A distributed network of computer nodes running a proof of work consensus algorithm ensures that coins are legitimate and not double spent. Invalid transactions are not accepted, which completely erases the problem of counterfeiting for users.
+
+Portable
+Gold is not very portable. It is heavy, and requires specialized logistics and insurance providers. Physical currency notes are somewhat portable, as are digital currency deposits in a bank. While the electrons may move instantly, banks have strong financial incentives to slow down the movement of money and they do, resulting in multi-day settlement times for most transactions today.
+
+Epic Cash can be sent to anyone, anywhere, anytime, within 1 minute, requiring only an ordinary computer.
+
+Divisible
+Diamonds and cows are examples of otherwise-useful forms of money that fail the divisibility test. Two halves of a cow are not nearly as valuable as one full cow. A diamond that is cut into two smaller pieces loses most of its value.
+
+Epic’s 21 million coins are each divisible to 8 decimal places, or 100 million subunits. A dollar has 100 cents, an EPIC has 100 million “Freemen”.
+
+Marketable
+Gold is marketable in 100% of the world’s countries. FRN’s today are very marketable, however if the US government decides to for whatever reason choose not to honor those obligations, they would immediately lose their value. 
+
+Gold has been apex property of the human species for at least 6000 years. Its unique functional properties as money were unrivaled until the introduction of BTC in 2009, which is objectively a better gold than gold, for store of value purposes.
+
+The FRN’s marketability can not get any better, but it can get worse in many different types of ways.
+
+Epic today is not very marketable. Like BTC in 2011 when buyers had no alternative except to send wire transfers to shadowy Japanese outfits, merchant acceptance is currently limited. With that said, one way to view this current state of affairs is as a feature rather than a bug.
+
+Epic is unlikely to become less marketable, only more so. Substantially all of the key infrastructure that has been constructed for BTC in the past decade is able to be brought into service to meet market demand for EPIC. 
+
+Times change, and with it, an ideal system of currency and money must also adapt. In addition to these time-honored attributes, today in 2021 we need greater protection against environmental dangers that are hazardous to our finances.
+
+Censorship Resistant
+In this era of cancel culture and deplatforming, once largely theoretical censorship issues have suddenly become manifest. What does the term censorship resistance mean, anyway?
+
+In a financial context, censorship can be thought of as a form of denial of service. When your bank freezes your account or has a “bank holiday”, that is censorship. You are restricted from access to your money. 
+
+Users of the FRN operate subject to the permission of the licensed, regulated financial institutions they rely on. Those who have experienced civil asset forfeiture know what it is like to wake up one morning and discover all your money gone. 
+
+Nation-states that find themselves in present disfavor by Washington are frozen out of the system; Witness the BRICS nations setting up their own alternative to the SWIFT system. 
+
+EPIC, as an “enhanced censorship resistance” implementation of Bitcoin, ensures that everyone, everywhere enjoys ongoing unrestricted access to the system. There is no ability to arbitrarily deny service to certain users, for example based on where they live. This stands in stark contrast to BTC, wherein 99% of people transact through financial institutions. These companies are legally prohibited from providing service to users in regions where their government doesn’t want them to. 
+
+BTC at the network level is not censorable, however at the individual user level it’s a quite different story. Coinbase users who share a VPN with a darknet user risk having their account closed, even though they themselves did nothing directly contrary to terms of service. If you rely on a company to connect to a network, then it doesn’t matter if the network itself is censorship resistant, because you yourself as a user are very censorable. 
+
+EPIC users interact directly with the blockchain without relying on a third party, which ensures that access cannot be restricted.
+
+Those are the properties that the ancients recognized as essential to maintaining the ongoing stability of a currency. Today, in 2021, this list must be extended in order to capture the full roster of needs that an ideal money must meet for its users.
+
+Private
+Gold is not very private, in that it is a physical object that reveals itself upon inspection. When traveling across a border, for instance, the presence of gold is magnetic for predators. 
+
+Physical FRN’s in small quantities are reasonably private, in that they are compact, however in nontrivial amounts, the sheer bulk is bound to attract attention. Digital dollars sent through the banking system are surveilled by innumerable parties whose business model is to data mine flows of money and monetize them. There are on average 17 companies involved in the processing of a single credit card transaction, for example. Our personal data is used and misused by all and sundry, giving rise to a new industry centered around identity theft.
+
+Epic, however, exists only ephemerally, as data on a blockchain. Ownership of “coins” is simply possession of a list of code words that enables the transfer of those bits of data to another party. Lacking any physical form whatsoever, there is an inherent stealth advantage to cryptocurrency vs. material property. 
+
+It was first believed that crypto was anonymous, however over time it became clear that the abuses of the surveillance capitalism paradigm are only exacerbated by blockchain-based money systems. First-generation digital currencies such as BTC and Ether allow everyone to see everything about what everyone else does - there is a complete absence of privacy unless extreme care is taken to avoid leaving a digital trace. A Russian-Swedish man in Ohio was just sentenced to prison for his role in cryptocurrency transactions dating from 2011.
+
+When laws are arbitrarily and capriciously enforced, retroactively, according to evolving understandings of what constitutes acceptable behavior in polite society, this creates incalculable risk for users. Uber was flatly illegal for most of its corporate existence, yet succeeded in changing laws and its backers made billions. Citigroup was also illegal at the time of its creation via merger, yet ended up with the power to get the laws to change. China and India have flipflopped on their stance regarding the legality of crypto numerous times, leaving law-abiding people scratching their heads about what the rules of the road will be going forward.
+
+In order to be censorship resistant, a blockchain-based cryptocurrency must be private by default. In many parts of the world, it is dangerous to be rich. If your neighbor can see when a large deposit comes in, perhaps he comes by to ask for a loan, knowing you can easily afford it.
+
+Compliant
+Gold was made illegal to own in the United States in 1933 under Executive Order 6102. Citizens were required to surrender their gold at a price of $20 per ounce, vs the post-seizure market price of $35, representing an almost 50% confiscation of holders’ value.
+
+The market for Federal Reserve Notes requires men with guns surrounding lakes of oil, and this is very expensive. The FRN is contrary to the Constitution, which specifies that only gold and silver can be money, so its present dominance is at the very least not set in stone.
+
+EPIC, technically, is free speech protected by the first amendment. At a protocol level, to create a transaction is indistinguishable from crafting a tweet. (Indeed, Andreas Antonopolous sent a BTC transaction using emojis over Twitter). In terms of securities law, it is on well-established ground as “Howey Test Compliant” with the same structure as BTC.
+
+Auditable
+It is not known how much gold exists in the world. The Federal Reserve refuses to open its books to an audit. EPIC, however, is publicly transparent and auditable to anyone who cares to inspect the free open source software code and validate the math of the blockchain. On an individual level, users in weak rule of law / low-legitimacy jurisdictions enjoy the ability to provide view-only access to their data without compromising the security of their funds.
+
+Since time immemorial, gold has endured at the pinnacle of monetary commodities. For the past 50 years, use of the Federal Reserve Note has been enforced at gunpoint to secure the Petrodollar Standard. Because of its superior functional properties to all presently existing alternatives, $EPIC is well set to out-compete both nation-state (FRN) and natural (gold) monetary commodities. 
+
+Extensible
+A currency that is meant to last must also be able to stay up to date with the rapid advances in information technology, so as not to be rendered obsolete. The design of Epic lends itself to incremental evolution over time, without sacrificing core foundational first principles.
+
+It achieves this because of the nature of its blockchain, which is:
+* Immutable
+* Trustless
+* Public
+* Permissionless
+* Open
+* Borderless
+* Neutral
+
+These properties were first enumerated by Bitcoin sage, Andreas Antonopolous. 
+
+Epic is scarce, fungible, durable, recognizable, portable, divisible, and increasingly marketable. It is private, auditable, extensible, compliant, and above all else censorship resistant.
