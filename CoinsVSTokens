@@ -1,0 +1,46 @@
+What is the difference between a coin and a token?
+
+A coin is the native currency of a blockchain. It can be thought of as the "fuel" of the system, in that you need to have coins to pay for fees to send a transaction.
+
+A token, by contrast, is an asset that rides on top of a blockchain, vs. having its own system. For example, the Maker DAO token $MKR on Ethereum requires Ether $ETH to send. 
+
+Blockchain systems that offer the functionality to create tokens which can then be transferred on that chain between parties:
+
+* Ethereum
+* Binance Smart Chain
+* Solana
+* Polkadot
+* Kadena
+
+What's the difference? 
+
+Tokens
+* Tokens are pre-mined into existence
+* Their supply can often be inflated, for example when the YFI team recently created $250MM in tokens for themselves. https://www.coindesk.com/yearn-finance-votes-to-inflate-yfi-token-supply-by-20
+
+Coins
+* Coins are mined into existence through a coinbase reward, through for example proof of work.
+* The monetary policy of coins is set in stone at the inception of the network. It cannot be changed without modifying the code into something else, which is no longer that coin, it is a secondary spinoff of sorts, no longer the original network.
+
+People often misunderstand the "waste" of energy consumption in Bitcoin. 
+It is not a bug, it is a feature. THE key feature. 
+The entire point of the system, in fact, is to create a competitive market to see who can waste the most energy. 
+Trying to "reduce energy costs" by eliminating proof of work mining is to misunderstand the nature of the system.
+
+Noteworthy Coins
+* BTC
+* ETH
+* Epic Cash
+
+BTC created the Bitcoin Standard of disinflationary scarcity conditions that have led to that particular blockchain achieving the highest security level of any system in human history.
+ETH is a "cloud computer on a blockchain" that enables people to create smart contracts that pay out under certain conditions.
+Epic Cash implements the Bitcoin Standard on a more performant substrate to replicate identically certain aspects of BTC yet also address various unresolved shortcomings of BTC.
+
+The value of a coin is supported by the accumulated wall of encrypted energy that went into the creation of those coins. 
+The ratio of future coins (that can be created through the destruction of energy) to past coins (which will be sold as their miners realize gains) is what underpins the ongoing security of the chain.
+
+A token's price depends not on its production cost so much as the utility and/or speculative value of the asset as a vehicle similar to how one may invest in stocks.
+Investors wishing to avoid agency problems with project management may prefer coins to tokens because they cannot be arbitrarily dispossessed of the value of their holdings, as is possible with tokens.
+
+
+
